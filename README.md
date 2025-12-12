@@ -71,7 +71,7 @@ graph TD
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/soulpage-task1.git
+git clone https://github.com/yourusername/soulpage-genai-task1-suryanshsr.git
 cd soulpage-task1
 pip install -r requirements.txt
 ```
