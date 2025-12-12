@@ -1,0 +1,29 @@
+{
+  "summary": "Titan Company Limited is projected to post a 38% year-on-year rise in Q2 FY26 profit, supported by steady core business growth and a low base effect. The company has redeemed INR15 billion in commercial papers, indicating a stable financial position. However, high gold prices may pose a risk to the company's jewelry business. The stock price has shown a 10.7% increase over the past year. Due to limited data on current stock prices, the confidence in this analysis is moderate.",
+  "sentiment": "positive",
+  "key_drivers": [
+    "Steady core business growth",
+    "Low base effect"
+  ],
+  "risks": [
+    "High gold prices"
+  ],
+  "evidence": [
+    {
+      "article_id": "31854f91-550b-4b98-8830-24f50b6c8d00",
+      "quote": "Titan Company is projected to post a 38% year-on-year rise in Q2 FY26 profit, supported by steady core business growth and a low base effect.",
+      "url": "https://economictimes.indiatimes.com/titan-company-ltd/stocksupdate/companyid-12903.cms"
+    },
+    {
+      "article_id": "a5e54d0e-7109-46d9-b730-774b3f5b47a3",
+      "quote": "Titan Company redeemed INR15 billion in commercial papers on December 11.",
+      "url": "https://www.perplexity.ai/finance/TITAN.NS"
+    },
+    {
+      "article_id": "6b019888-4ff5-4554-935a-b59e82606337",
+      "quote": "1-Year Change. 10.7%",
+      "url": "https://www.investing.com/equities/titan-industries"
+    }
+  ],
+  "confidence": 0.6
+}

@@ -1,0 +1,22 @@
+{
+  "summary": "The provided data does not contain sufficient financial information to form a conclusion about the stock price of Titan. The documents appear to be related to the Tennessee Titans football team and a mining company called Titan Mining Corp. Due to the lack of relevant data, the confidence level is set to low. There is no clear indication of the company's financial performance or stock price drivers.",
+  "sentiment": "neutral",
+  "key_drivers": [],
+  "risks": [
+    "Insufficient data",
+    "Lack of financial information"
+  ],
+  "evidence": [
+    {
+      "article_id": "5c807b76-38e2-4213-a6ad-ecea4852f098",
+      "quote": "Find the latest Tennessee Titans news, rumors, free agency and NFL Draft updates",
+      "url": "https://titansized.com/"
+    },
+    {
+      "article_id": "54d9a1a7-3dd8-488d-a5f4-97efaa3e6e64",
+      "quote": "Titan Mining Announces Phase III Metallurgy Results and Outlines Plans for Natural Flake Graphite Processing Facility in New York State",
+      "url": "https://www.titanminingcorp.com/news/news-releases/"
+    }
+  ],
+  "confidence": 0.0
+}

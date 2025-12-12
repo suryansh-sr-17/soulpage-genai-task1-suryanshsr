@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dummy_1",
+    "source": "DummyNews",
+    "title": "Tesla expands production in Berlin",
+    "text": "Tesla is ramping up production at its Giga Berlin factory, aiming for 5000 cars per week. The expansion comes amidst high demand in the European market.",
+    "url": "http://example.com/tesla-berlin",
+    "published_at": "2023-10-25T10:00:00Z",
+    "language": "en"
+  },
+  {
+    "id": "dummy_2",
+    "source": "TechDaily",
+    "title": "Tesla faces new regulatory challenges in China",
+    "text": "New safety regulations in China may impact Tesla's autopilot features. Authorities are requesting more data transparency from EV manufacturers.",
+    "url": "http://example.com/tesla-china-reg",
+    "published_at": "2023-10-26T14:30:00Z",
+    "language": "en"
+  },
+  {
+    "id": "dummy_3",
+    "source": "MarketWatchDummy",
+    "title": "Analyst upgrades TSLA price target",
+    "text": "Leading analysts have upgraded TSLA price target to $300 citing strong Q3 delivery numbers and improved margins.",
+    "url": "http://example.com/tsla-upgrade",
+    "published_at": "2023-10-27T09:15:00Z",
+    "language": "en"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "summary": "NVIDIA's stock is poised to extend its dominance in the AI chip market, with early signs suggesting a strong performance in 2026. However, the company faces risks related to its sales of advanced chips to China, with some politicians calling for the CEO to testify on the matter. The stock has surged nearly 1000% throughout the AI revolution. Confidence in this analysis is moderate due to limited price data.",
+  "sentiment": "positive",
+  "key_drivers": [
+    "Dominance in AI chip market",
+    "Surge in stock price during AI revolution"
+  ],
+  "risks": [
+    "Regulatory risks related to China chip sales",
+    "Political backlash against chip sales to China"
+  ],
+  "evidence": [
+    {
+      "article_id": "dd2ee2b6-b9b8-438a-81ed-5f601cf6e091",
+      "quote": "Nvidia heads into 2026 as the world's most valuable company and dominant AI chip supplier",
+      "url": "https://www.tipranks.com/news/whats-ahead-for-nvidia-stock-nvda-in-2026"
+    },
+    {
+      "article_id": "71939b0f-cdc3-402c-a5a9-68f74af38fb4",
+      "quote": "Nvidia stock has surged by nearly 1000% throughout the artificial intelligence (AI) revolution",
+      "url": "https://www.fool.com/investing/2025/12/11/where-will-nvidia-stock-be-in-5-years/"
+    },
+    {
+      "article_id": "8307fa60-9adf-4a28-9e02-8ec79ddfc63c",
+      "quote": "President Donald Trump's decision to let Nvidia sell its advanced H200 artificial intelligence chips to China 'sells out American national'",
+      "url": "https://www.cnbc.com/2025/12/11/trump-nvidia-china-chips-warren.html"
+    },
+    {
+      "article_id": "b08f322f-0ed1-42f2-8e3a-4633a7c7011f",
+      "quote": "Senator calls for Nvidia CEO to testify on Trump approval for China chip sales",
+      "url": "https://www.reuters.com/world/us/democratic-senator-calls-nvidia-ceo-testify-trumps-greenlight-china-chip-sales-2025-12-11/"
+    }
+  ],
+  "confidence": 0.6
+}

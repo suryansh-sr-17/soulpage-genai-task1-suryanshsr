@@ -1,0 +1,10 @@
+{
+  "summary": "Analysis failed due to technical error.",
+  "sentiment": "neutral",
+  "key_drivers": [],
+  "risks": [
+    "Analysis Error"
+  ],
+  "evidence": [],
+  "confidence": 0.0
+}

@@ -1,0 +1,30 @@
+{
+  "summary": "Tesla's stock is experiencing a mix of positive and negative sentiments, with Deutsche Bank naming it a top pick for 2026, while also facing headwinds that could impact its long-term performance. The company's dominance in the EV market and potential for growth are key drivers, but intensifying competition and easing climate regulations pose risks. Confidence in this analysis is moderate due to the availability of relevant data.",
+  "sentiment": "neutral",
+  "key_drivers": [
+    "Dominance in the EV market",
+    "Potential for growth"
+  ],
+  "risks": [
+    "Intensifying competition",
+    "Easing climate regulations"
+  ],
+  "evidence": [
+    {
+      "article_id": "b5d02453-5895-47e0-aa15-1e75a74f7ee8",
+      "quote": "Tesla remains the leader of the EV revolution, dominating global market share despite the stock\u2019s recent struggles.",
+      "url": "https://biztoc.com/x/cb7b159f12d6de6b"
+    },
+    {
+      "article_id": "137749793",
+      "quote": "Tesla Stock Is Deutsche Bank\u2019s Top Car Pick for 2026. It\u2019s About Much More Than EVs.",
+      "url": "https://finnhub.io/api/news?id=36dbe23dffd8810203f2ef2d6c31f32008518c3ac3f9dbb8fe06faeba5224f08"
+    },
+    {
+      "article_id": "137759735",
+      "quote": "EV maker Tesla (NASDAQ:TSLA) is among the most interesting growth stocks in the market to look at.",
+      "url": "https://finnhub.io/api/news?id=8254c63ee21a05a378bb008dcd49ead7fd719a0871fd2a21f16391519ece8ded"
+    }
+  ],
+  "confidence": 0.6
+}
